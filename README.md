@@ -1,2 +1,2 @@
 # deepcreampy-exe
-deepcreampy exe folked, made by deeppomf
+deepcreampy exe forked, made by deeppomf
